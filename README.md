@@ -1,6 +1,6 @@
 # AvaHartIT1025
 1. **Executive Summary**
-1. **Information SYstem Components**
+1. **Information System Components**
 1. **Github**
 
 Client-Server Architechture
