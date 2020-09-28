@@ -1,5 +1,5 @@
 ### Executive Summary 
-
+Last lab we learned about different operating systems and how they functioned, along with the basics of python and what pyton is used for. It ended with different types of graphics, vector vs raster, and how they apply to programming. This chapter explores netwroking and the functionality of cybersecurity.
 ### Lucidchart
 The website was very user friendly and a postive experience to learn. The exercise helped a lot to get familiar with the layout and how to apply the features. I see why it is popular in the industry and am happy to use it as I'm a very visual learner.
 ### Introduction to Networking
@@ -10,12 +10,10 @@ A switch stores the data called mac address', and when a data packet is sent to 
 ##### Network Topologies
 A single point failure is when the central hub goes down. This effects star topology, ring topology, and bus topology. Infrastructure is both physically wired and wireless. Wireless mesh are wirelessly connected to eachother. If you wanted modems throught your home or business, you do not have to run wires to each section, which condenses the whole process.
 ##### NSA/CSS
-The NSA's role in cybersecurity is very important. They Protect us from the terrorist and criminals who try to hack our personal information. NSA protects us by using cybersecurity, cybersecurity is used in ways such as protecting our hardware, software, or electronic data.
-
+The NSA protects us from hackers and security breaches either high level or not. They also provide resources on why the threat is so high and how to secure data and networks. Cybersecurity is used in order to maintain privacy and protect citizens. 
 ### Cybersecurity and Encryption
 ##### Information Systems Security
-##### Cryptography 
-##### Brute-Force
-
+With confidentiality, a worker cannot send out private information, like names, addresses, or bank information without a person's permission. Lots of people keep their most valuable information on their technology, so it's important to keep it locked up. With integrity, as a worker you have to give genuine answers or advice, no matter what. With integrity, having the chat avaliable at peak hours, or even 24 hours benefits customers most.
+ACL tells which users can use which data sets. It is harder to manage as their are indivdual sets, which can become difficult if there are many users. RBAC lets users have specific roles , letting it be easier to manage as there are deliberate sections. A ciphertext is like the cheat code to be able to read a set of data. a public key is encrypted such as a message. A private key decrypts the text.
 ### Conclusion
-Include your professional conclusion here...
+Lab 5 overviews the industry standar on why Lucidchart is popular and important, and goes to introduce networking. It describes how data is transferred across networks and what hardware is associated with it. We also learn what are typologies and the different types in a network. We end with how cybersecurity works and the key components to the flow.
